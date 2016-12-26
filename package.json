@@ -19,6 +19,7 @@
     "test": "true"
   },
   "dependencies": {
+    "@colmena/colmena-component-explorer-style": "1.0.0",
     "compression": "1.6.2",
     "cors": "2.8.1",
     "helmet": "1.3.0",
