@@ -1,16 +1,16 @@
 {
-  "name": "@colmena/loopback",
+  "name": "@colmena/colmena-loopback",
   "version": "0.0.4",
   "description": "",
   "private": false,
   "keywords": [],
-  "homepage": "https://github.com/colmena/loopback",
+  "homepage": "https://github.com/colmena/colmena-loopback",
   "repository": {
     "type": "git",
-    "url": "https://github.com/colmena/loopback"
+    "url": "https://github.com/colmena/colmena-loopback"
   },
   "bugs": {
-    "url": "https://github.com/colmena/loopback/issues"
+    "url": "https://github.com/colmena/colmena-loopback/issues"
   },
   "author": "Bram Borggreve <bram@colmena.io>",
   "license": "MIT",
