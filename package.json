@@ -31,7 +31,7 @@
     "loopback": "2.36.2",
     "loopback-boot": "2.23.0",
     "loopback-component-explorer": "4.0.0",
-    "loopback-component-fixtures": "1.0.2",
+    "loopback-component-fixtures": "1.1.0",
     "loopback-component-ping": "1.0.1",
     "loopback-component-templates": "1.1.9",
     "loopback-datasource-juggler": "2.53.1",
